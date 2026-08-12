@@ -1,6 +1,6 @@
 # STG-DDQN: Mobility-Aware SFC Continuity
 
-This package implements the revised paper **Mobility-Aware Service Function Chain Continuity in Vehicular Fog-Edge Networks**. It is a clean replacement for the earlier security-aware SM-SFC simulator; the two models and their results must not be mixed.
+This package implements the paper **Mobility-Aware Service Function Chain Continuity in Vehicular Fog-Edge Networks**. It is a clean replacement for the earlier security-aware SM-SFC simulator; the two models and their results must not be mixed.
 
 ## Implemented paper mechanisms
 
